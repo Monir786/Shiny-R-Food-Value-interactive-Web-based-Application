@@ -1,7 +1,7 @@
 # Shiny-R-Food-Value-interactive-Web-based-Application
 Shiny-R provides interactive web based application interface. This project is a small development following Shiny-R which can provides you by different Food Values.
 
-#Objectives:
+# Objectives:
 Created a Shiny r application. 
 Facts: Besides taking medication for varied diseases, people have to take Food Supplements in the form of medication. 
 Our application gives the count of essential minerals and vitamins along with the respective Foods chosen.
